@@ -1,0 +1,5 @@
+[neovim-stable]
+src.github = "neovim/neovim"
+src.github_releases = true
+src.exclude_regex = ".*prerelease.*"
+fetch.github = "neovim/neovim"
