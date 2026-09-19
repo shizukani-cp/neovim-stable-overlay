@@ -1,0 +1,23 @@
+{
+    "neovim-stable": {
+        "cargoLock": null,
+        "date": null,
+        "extract": null,
+        "name": "neovim-stable",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "neovim",
+            "repo": "neovim",
+            "rev": "v0.12.5",
+            "sha256": "sha256-dpu2kncpm+2k+XR7qOEi4KeEy9a1E6X7kjf3s4AbcSo=",
+            "sparseCheckout": [],
+            "type": "github"
+        },
+        "version": "v0.12.5"
+    }
+}
