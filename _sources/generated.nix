@@ -8,13 +8,13 @@
 {
   neovim-stable = {
     pname = "neovim-stable";
-    version = "v0.12.5";
+    version = "v0.12.6";
     src = fetchFromGitHub {
       owner = "neovim";
       repo = "neovim";
-      rev = "v0.12.5";
+      rev = "v0.12.6";
       fetchSubmodules = false;
-      sha256 = "sha256-dpu2kncpm+2k+XR7qOEi4KeEy9a1E6X7kjf3s4AbcSo=";
+      sha256 = "sha256-lK1gbJyESMN3C/i8cyPFzzlJDYZHzEXugGhCwPVEbNk=";
     };
   };
 }
